@@ -1,0 +1,29 @@
+{
+  "name": "hibye",
+  "version": "0.1.0",
+  "description": "This project will simply print hi and bye.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "ts",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Yusuf Shakeel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufshakeel/hibye.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yusufshakeel/hibye/issues"
+  },
+  "homepage": "https://github.com/yusufshakeel/hibye#readme",
+  "engines": {
+    "node": ">12.0.0"
+  }
+}
