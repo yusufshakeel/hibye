@@ -1,4 +1,4 @@
-export class HiBye {
+class HiBye {
   hi(): string {
     return 'hi';
   }
@@ -6,3 +6,6 @@ export class HiBye {
     return 'bye';
   }
 }
+
+export default HiBye;
+export { HiBye };

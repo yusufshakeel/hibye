@@ -1,4 +1,4 @@
-import { HiBye } from '../../../src';
+import HiBye from '../../../src';
 
 describe('Testing HiBye class', () => {
   let hiBye: HiBye;
