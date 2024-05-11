@@ -4,7 +4,7 @@ This project will simply print hi and bye.
 
 [![Build Status](https://github.com/yusufshakeel/hibye/actions/workflows/ci.yml/badge.svg)](https://github.com/yusufshakeel/hibye/actions/workflows/ci.yml)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yusufshakeel/hibye)
-[![npm version](https://img.shields.io/badge/npm-0.2.0-blue.svg)](https://www.npmjs.com/package/hibye)
+[![npm version](https://img.shields.io/badge/npm-0.2.1-blue.svg)](https://www.npmjs.com/package/hibye)
 [![npm Downloads](https://img.shields.io/npm/dm/hibye.svg)](https://www.npmjs.com/package/hibye)
 
 ## Getting started
@@ -58,3 +58,13 @@ console.log(hiBye.bye()); // bye
 ```javascript
 console.log(hiBye.byeJson()); // { message: 'bye' }
 ```
+
+## License
+
+It's free :smiley:
+
+[MIT License](https://github.com/yusufshakeel/hibye/blob/main/LICENSE) Copyright (c) 2024 Yusuf Shakeel
+
+### Donate
+
+Feeling generous :smiley: [Donate via PayPal](https://www.paypal.me/yusufshakeel)
